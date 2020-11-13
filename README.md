@@ -1,5 +1,6 @@
 # Где что лежит
 ## Краткий манул того, где что лежит
+Для корректного взаимодействия с репозиторием требуется установленный git
 1. warner media bot - находится https://github.com/AdvDevBaf/warnerbot
 2. E-loupe - https://github.com/AdvDevBaf/E-loupe-bot
 3. Бот для отслеживания товаров - https://github.com/AdvDevBaf/telegramadvchkbot
@@ -10,4 +11,4 @@
 8. Майтаргет, геокодер, роскомсвобода и тд - https://github.com/AdvDevBaf/Mytarger-GeoCoder-different_stuff
 9. CPM_Checker - https://github.com/AdvDevBaf/CPM_CHECKER
 10. Поиск в ютуб апи - https://github.com/AdvDevBaf/Search
-Для корректного взаимодействия с репозиторием требуется установленный git
+
